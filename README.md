@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This project aims to create a calorie detection model using data from a Fitbit device. The model uses linear regression to predict the number of calories burned based on the number of steps taken, the active minutes, and the distance traveled.
+For this project, I have worked on developing a machine learning model that predicts the number of calories burned by a person based on their steps taken, active minutes, and distance traveled. The model has been trained on real-life fitness data, and it has given us impressive results in terms of accuracy. This project has been a great learning experience, and I'm thrilled to share it with my professional network.
+
+I have used Python libraries such as NumPy, Pandas, and scikit-learn to build and train the model. I have also used Streamlit, a web app framework, to create an interactive interface that makes it easy for people to use the model and see their calorie predictions. The final product is a user-friendly and interactive tool that can help people keep track of their fitness goals and make healthier choices.
+
+I hope this project showcases my skills and knowledge in machine learning, data science, and web development. I look forward to connecting with like-minded professionals and exploring new opportunities in these fields.
 
 ## Data
 
