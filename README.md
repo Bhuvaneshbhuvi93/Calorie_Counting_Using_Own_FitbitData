@@ -53,6 +53,12 @@ The final model had an R-squared value of 0.9654, indicating a strong correlatio
 ## Usage
 The model can be used to predict the number of calories burnt by inputting the user's activity data (steps taken, active minutes, and distance traveled). The user can then use this information to make informed decisions about their physical activity and calorie intake.
 
+## Demo Video
+
+
+https://user-images.githubusercontent.com/118096816/216385003-f1bec2a9-2f81-4633-af49-8452dd778308.mp4
+
+
 ## Future Work
 - The model can be improved by incorporating additional data such as heart rate, sleep data and etc.
 - The model can be trained on a larger dataset to improve its accuracy.
